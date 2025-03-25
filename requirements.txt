@@ -1,6 +1,2 @@
 Flask
 requests
-re
-base64
-json
-uuid
